@@ -196,3 +196,44 @@ header li button {
     height: 292.642px;
     margin-right: 70px;
 }
+
+
+.block_4 {
+    width: 1200px;
+    height: 140px;
+    background: #F9E0AE;
+    text-align: center;
+    margin-top: 110px;
+}
+
+.block_4 input {
+    width: 300px;
+    height: 63px;
+    flex-shrink: 0;
+    background: #FFF;
+    color: rgba(0, 0, 0, 0.50);
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-left: 45px;
+    text-align: center;
+}
+
+.block_4 button {
+    width: 300px;
+    height: 63px;
+    background: #C24914;
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 45px;
+    text-align: center;
+}
+.block_4 form {
+    padding-top: 38px;
+    text-align: center;
+    padding-right: 45px;
+}
