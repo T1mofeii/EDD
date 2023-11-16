@@ -152,6 +152,47 @@ header li button {
     margin-right: 100px;
     margin-top: 45px;
 }
-.block_2 ul li{
+
+.block_2 ul li {
     margin-top: 5px;
+}
+
+.block_3 {
+    margin-top: 234px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+}
+
+.block_3 h1 {
+    margin-top: 40px;
+    color: #000;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.block_3 h2 {
+    margin-top: 10px;
+    color: #000;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.block_3 h3 {
+    margin-top: 10px;
+    color: #000;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.block_3 img {
+    width: 439.314px;
+    height: 292.642px;
+    margin-right: 70px;
 }
