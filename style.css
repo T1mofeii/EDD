@@ -232,8 +232,68 @@ header li button {
     margin-left: 45px;
     text-align: center;
 }
+
 .block_4 form {
     padding-top: 38px;
     text-align: center;
     padding-right: 45px;
+}
+
+.block_5 {
+    margin-top: 270px;
+    background-image: url(img/Group1.png);
+    background-repeat: no-repeat;
+    background-size: 1200px;
+    
+}
+.block_5_img{
+    background-image: url(img/Group1.png);
+    background-repeat: no-repeat;
+    background-size: 1200px;
+    height: 870px;
+}
+
+.block_5 h1 {
+    margin-left: 55px;
+    color: #000;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    padding-top: 100px;
+}
+
+.block_5 h2 {
+    margin-left: 55px;
+    margin-top: 10px;
+    color: #000;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.block_5 p {
+    color: rgba(0, 0, 0, 0.46);
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 45px;
+    margin-top: 25px;
+}
+
+.block_5 button {
+    margin-left: 183px;
+    border-radius: 10px;
+    background: #FC8621;
+    width: 273px;
+    height: 54px;
+    color: #FFF;
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 75px;
 }
