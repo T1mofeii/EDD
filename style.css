@@ -71,7 +71,7 @@ header li button {
     font-style: normal;
     font-weight: 700;
     line-height: normal;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 .block_1 h3 {
@@ -110,8 +110,48 @@ header li button {
 .block_1 img {
     width: 487px;
     height: 420px;
+    margin-right: 100px;
 }
-.block_1{
+
+.block_1 {
     display: flex;
     justify-content: space-between;
+}
+
+.block_2 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 240px;
+}
+
+.block_2 h1 {
+    color: #000;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: 45px;
+}
+
+.block_2 h2 {
+    color: #000;
+    margin-top: 10px;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.block_2 ul {
+    margin-top: 20px;
+    color: #000;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-right: 100px;
+    margin-top: 45px;
+}
+.block_2 ul li{
+    margin-top: 5px;
 }
